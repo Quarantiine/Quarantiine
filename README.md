@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @KingSage
+- 👋 Hi, I’m @Quarantiine
 - 👀 I’m interested in Machine Learning, AI, and Robotics Engineering
 - 🌱 I’m Going to learn Python, ML, and Mathematics to get ready for robotics
 - 💞️ I’m looking to collaborate on ML, Robotics, or electronics
