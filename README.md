@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Quarantiine
-- 👀 I’m interested in Machine Learning, AI, and Robotics Engineering
-- 🌱 I’m Going to learn Python, ML, and Mathematics to get ready for robotics
-- 💞️ I’m looking to collaborate on ML, Robotics, or electronics
+- 👀 I’m interested in Game Development
+- 🌱 I’m Going to learn Unity and probably Mathematics to get ready for Unity
+- 💞️ I’m looking to collaborate on game development according to Unity 
 - 📫 How to reach me is email me at 02danwar.buss@gmail.com
 
 <!---
